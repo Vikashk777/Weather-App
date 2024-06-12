@@ -1,0 +1,15 @@
+.SearchBox{
+    margin: 5px;
+}
+
+h2{
+    margin: 3px;
+}
+
+#outlined-basic{
+    border-radius: 9px;
+    background-color: #d8d8d8;
+    height: 20px;
+    margin: 0px;
+    font-size: 1.1rem;
+}

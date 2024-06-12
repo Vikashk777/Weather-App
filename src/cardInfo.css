@@ -1,0 +1,8 @@
+.para{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 0px;
+    column-gap: 10px;
+    text-align: start;
+    font-size: 15px;
+}
